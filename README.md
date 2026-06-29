@@ -26,6 +26,6 @@ https://daniyalmehmood.com
 ## 📫 Connect with Me
 
 - Website: https://daniyalmehmood.com
-- LinkedIn:  https://www.linkedin.com/in/daniyalmehmood11/
-- Instagram: https://www.instagram.com/daniyal_mehmood1/
+- LinkedIn:  https://www.linkedin.com/in/daniyalmehmood-dev
+- Instagram: https://www.instagram.com/daniyalmehmood.dev/
 - X: https://x.com/danielmanthon01
