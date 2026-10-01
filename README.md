@@ -28,4 +28,4 @@ https://daniyalmehmood.com
 - Website: https://daniyalmehmood.com
 - LinkedIn:  https://www.linkedin.com/in/daniyalmehmood-dev
 - Instagram: https://www.instagram.com/daniyalmehmood.dev/
-- X: https://x.com/danielmanthon01
+- X: https://x.com/daniyalmehmood_
